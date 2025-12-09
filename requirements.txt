@@ -1,0 +1,18 @@
+# Selenium Web Scraping Dependencies
+
+# Selenium - Biblioteca principal para automação web
+selenium>=4.15.0
+
+# WebDriver Manager - Gerenciamento automático de drivers (ChromeDriver, etc)
+webdriver-manager>=4.0.0
+
+# Python Dotenv - Gerenciamento de variáveis de ambiente
+python-dotenv>=1.0.0
+
+# Biblioteca opcional mas útil para parsing de HTML
+beautifulsoup4>=4.12.0
+
+# Requests - Para requisições HTTP simples (complementar ao Selenium)
+requests>=2.31.0
+
+

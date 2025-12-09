@@ -1,0 +1,38 @@
+# ====================================================================
+# ARQUIVO DE CONFIGURAÇÃO DE PROXIES
+# ====================================================================
+#
+# Formatos suportados:
+#
+# 1. HTTP/HTTPS com autenticação:
+#    http://usuario:senha@host:porta
+#
+# 2. SOCKS5 com autenticação:
+#    socks5://usuario:senha@host:porta
+#
+# 3. Proxy simples (sem autenticação):
+#    host:porta
+#
+# 4. HTTP sem autenticação:
+#    http://host:porta
+#
+# ====================================================================
+# EXEMPLO - PyProxy (seu proxy atual):
+# ====================================================================
+
+http://usernovoaazx2-zone-resi-region-br:josesilva105@cd9bfed8d9466dc4.ika.na.pyproxy.io:16666
+
+# ====================================================================
+# ADICIONE MAIS PROXIES ABAIXO (um por linha):
+# ====================================================================
+
+# Exemplo de proxy sem autenticação:
+# 192.168.1.100:8080
+
+# Exemplo de SOCKS5:
+# socks5://usuario:senha@proxy.exemplo.com:1080
+
+# Exemplo de HTTP simples:
+# http://proxy.exemplo.com:3128
+
+

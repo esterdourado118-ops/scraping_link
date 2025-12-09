@@ -36,9 +36,7 @@ ENV/
 *~
 .DS_Store
 
-# Selenium & Scraper Data
-chrome_profiles/
-output/
+# Selenium
 *.png
 *.jpg
 *.jpeg
@@ -46,7 +44,6 @@ output/
 screenshots/
 geckodriver.log
 chromedriver.log
-proxy_state.json
 
 # Environment variables
 .env
@@ -57,4 +54,5 @@ proxy_state.json
 
 # WebDriver Cache
 .wdm/
+
 
